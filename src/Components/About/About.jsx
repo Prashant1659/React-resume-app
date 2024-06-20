@@ -1,6 +1,6 @@
 
 import './About.css'
-import react_img from '../../assets/DSC_6801.jpg'
+import react_img from '../../assets/profile.jpeg'
 
 export default function About(){
     return(

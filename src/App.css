@@ -20,6 +20,10 @@
   /* border-bottom-right-radius: 45%; */
   height: 70vh;
 }
+.header > navbar{
+  position: sticky;
+  top: 0;
+}
 .aboutsection{
   background-color: rgb(74, 183, 226);
 }
